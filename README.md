@@ -4,8 +4,7 @@
 
 - **be sure:** 
     - docker running on your computer
-    - python 
-    - 
+    - python3
 
 
 
